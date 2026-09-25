@@ -87,6 +87,7 @@ def adam_minimize(
 
     if not success:
         message = "Maximum iterations reached."
+        fun_vals.append(fun(x, *args))        
 
     result = SimpleNamespace(
         x=x,
