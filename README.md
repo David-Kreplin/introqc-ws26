@@ -1,4 +1,4 @@
-# Course Quantum Machine Learning
+# Course Introduction to Quantum Computing
 
 This repository contains labs in the form of Jupyter Notebooks.
 To run the notebooks, you first need to set up an appropriate Python environment.
