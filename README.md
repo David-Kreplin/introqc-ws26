@@ -7,7 +7,7 @@ To run the notebooks, you first need to set up an appropriate Python environment
 
 Please make sure the following software is installed:
 
--   Python ≥ 3.10
+-   Python ≥ 3.11
 -   pip (usually installed together with Python)
 -   Optional but recommended: Git (to download the latest course material)
 -   Optional but recommended: VS Code or PyCharm Professional (for viewing, running, and editing the notebooks)
